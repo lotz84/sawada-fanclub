@@ -13,3 +13,8 @@ Personal info
 * Weight - [Yasuharu Visualize](http://yasuharu519.github.io/Weight/)
 
 ![](lgtm/Tz8BhCV.gif)
+
+Related works
+-------------
+
+* [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub)
