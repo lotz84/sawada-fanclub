@@ -4,7 +4,7 @@ sawada-fanclub
 Social accounts
 ---------------
 
-* twitter - [@yasuharu519](https://twitter.com/yasuharu519)
+* Twitter - [@yasuharu519](https://twitter.com/yasuharu519)
 * Blog - [def yasuharu519(self):](http://yasuharu519.hatenablog.com/)
 
 Personal info
